@@ -3,7 +3,7 @@
 - 🌱 I’m eagerly learning AI/ML/DS skills, especially in fields of NLP, LLM Agents, AI4bio.
 - 😄 Pronouns: She/Her (Asexual <img src="https://raw.githubusercontent.com/YukinoshitaSherry/qycf_picbed/main/img/flag.png" alt="asexual" width="20" height="25"/>)
 - 📫 How to reach me: yukinoshitasherry@gmail.com
-- ✨ My Personal Blog (written in Mandarin): <a href="https:yukinoshitasherry.github.io" target="blank"> 秋月春风的书房 </a>
+- ✨ My Personal Blog (written in Mandarin): <a href="https://yukinoshitasherry.github.io" target="blank"> 秋月春风的书房 </a>
 
 ## Tools
 <a href="https://github.com" target="blank"> <img src="https://raw.githubusercontent.com/YukinoshitaSherry/qycf_picbed/main/img/githubb.png" alt="Github" width="45" height="40"/> </a> 
