@@ -8,13 +8,13 @@
 ## Tools
 <a href="https://github.com" target="blank"> <img src="https://raw.githubusercontent.com/YukinoshitaSherry/qycf_picbed/main/img/githubb.png" alt="Github" width="45" height="40"/> </a> 
 <a href="https://code.visualstudio.com/" target="blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="Vscode" width="40" height="40"/> </a> 
-<img src="https://raw.githubusercontent.com/YukinoshitaSherry/qycf_picbed/main/img/ubuntu_.png" alt="Ubuntu" width="40" height="40"/> </a> <a href="https://ubuntu.com/" target="blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/YukinoshitaSherry/qycf_picbed/main/img/apifox.png" alt="Apifox" width="40" height="40"/> </a> <a href="https://apifox.com/" target="blank" rel="noreferrer"> 
-<a href="https://obsidian.md/" target="_blank"> <img src="https://obsidian.md/favicon.ico" alt="Obsidian" width="40" height="40"/> </a> <a href="https://www.centos.org/" target="blank"> 
+<a href="https://ubuntu.com/" target="blank"> <img src="https://raw.githubusercontent.com/YukinoshitaSherry/qycf_picbed/main/img/ubuntu_.png" alt="Ubuntu" width="40" height="40"/> </a> 
+<a href="https://apifox.com/" target="blank"> <img src="https://raw.githubusercontent.com/YukinoshitaSherry/qycf_picbed/main/img/apifox.png" alt="Apifox" width="40" height="40"/> </a> 
+<a href="https://obsidian.md/" target="_blank"> <img src="https://obsidian.md/favicon.ico" alt="Obsidian" width="40" height="40"/> </a> 
 
 ## Technology Stack
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-<img src="https://raw.githubusercontent.com/YukinoshitaSherry/qycf_picbed/main/img/Docker.png" alt="Docker" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="blank" rel="noreferrer"> 
+<a href="https://www.docker.com/" target="blank" > <img src="https://raw.githubusercontent.com/YukinoshitaSherry/qycf_picbed/main/img/Docker.png" alt="Docker" width="40" height="40"/> </a> 
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
 <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/YukinoshitaSherry/qycf_picbed/main/img/pytorch_.png" alt="pytorch" width="40" height="40"/> </a>
