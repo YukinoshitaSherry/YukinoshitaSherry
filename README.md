@@ -1,5 +1,5 @@
 ## Hi 👋  I'm Yukinoshita Sherry🌙 
-- 🔭 I’m currently a 3rd-year undergraduate student in College of Computer Science and Technology, Zhejiang University, China. 
+- 🔭 I’m currently a final year undergraduate student in College of Computer Science and Technology, Zhejiang University, China. 
 - 🌱 I’m eagerly learning AI/ML/DS skills, especially in fields of NLP, LLM Agents, AI4bio.
 - 😄 Pronouns: She/Her
 - 📫 How to reach me: yukinoshitasherry@gmail.com
