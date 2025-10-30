@@ -2,7 +2,8 @@
 - 🔭 I’m currently a final year undergraduate student in College of Computer Science and Technology, Zhejiang University, China.
 - 📖 I interned at <a href="https://github.com/zjunlp">Knowledge Engine Lab</a> (ZJU) and <a href="https://github.com/gersteinlab">Gerstein Lab</a> (Yale).
 - 🌱 I’m eagerly learning AI/ML/DS skills, especially in fields of NLP, LLMs, Agents, RL and AI4S.
-- 😄 Pronouns: She/Her
+- 😄 Pronouns: She/Her, Gender: Asexuality <img width="25" height="25" alt="image" src="https://github.com/user-attachments/assets/ec37ab95-c138-445e-851a-d1817bd9d449" />
+
 - 📫 How to reach me: yukinoshitasherry@gmail.com
 - ✨ My Personal Blog (written in Mandarin): <a href="https://yukinoshitasherry.github.io" target="blank"> 秋月春风的书房 </a>
 
